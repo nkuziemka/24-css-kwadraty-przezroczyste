@@ -1,3 +1,31 @@
 body {
-    background-color:#f5f5dd;
+    background-color:#f5dddd;
+}
+
+.kolor1 {
+    width:200px;
+    height:200px;
+    background-color:rgba(0,0,0,0.1);
+    margin:10px;
+}
+
+.kolor2 {
+    width: 200px;
+    height:200px;
+    background-color:rgba(0,0,0,0.4);
+    margin:10px;
+}
+
+.kolor3 {
+    width:200px;
+    height:200px;
+    background-color:rgba(0,0,0,0.8);
+    margin:10px;
+}
+
+.kolor4 {
+    width:200px;
+    height:200px;
+    background-color:rgba(0,0,0,1.0);
+    margin:10px;
 }
